@@ -15,5 +15,8 @@ public class FirstCode {
         System.out.println("分支改变数据");
         System.out.println("在远程库进行了数据操作");
         System.out.println("在本地库进行了数据操作");
+
+
+        System.out.println("=====");
     }
 }
