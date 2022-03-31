@@ -11,5 +11,6 @@ public class FirstCode {
         System.out.println("分支1 开始工作两次");
         System.out.println("分支1 开始工作三次");
         System.out.println("分支1 改变数据");
+        System.out.println("分支改变数据");
     }
 }
