@@ -6,5 +6,6 @@ public class FirstCode {
         System.out.println("1.初始化本地库"+"/n"+" 2.添加暂存区"+"/n"+"3.提交本地库");
         System.out.println("本地库的实现完成");
         System.out.println("分支操作");
+        System.out.println("分支1 开始工作");
     }
 }
