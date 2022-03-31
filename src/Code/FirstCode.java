@@ -16,5 +16,7 @@ public class FirstCode {
         System.out.println("在远程库进行了数据操作");
         System.out.println("在本地库进行了数据操作");
         System.out.println("=====");
+        
+        System.out.println("==============");
     }
 }
